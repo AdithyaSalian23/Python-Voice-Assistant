@@ -37,6 +37,7 @@ This is a simple voice-controlled assistant built using Python that responds to 
    ```bash
    python main.py
    ```
+---
 
 ## 🗣️ Voice Commands You Can Try
 
@@ -46,11 +47,15 @@ This is a simple voice-controlled assistant built using Python that responds to 
 
 "Jarvis play Skyfall"
 
+---
+
 ## 💡 Notes
 
 Ensure your microphone is enabled and working.
 
 You can customize the song list in `musicLibrary.py`
+
+---
 
 ## 📺 Reference
 
