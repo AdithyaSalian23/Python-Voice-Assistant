@@ -41,11 +41,11 @@ This is a simple voice-controlled assistant built using Python that responds to 
 
 ## 🗣️ Voice Commands You Can Try
 
-"Jarvis open Google"
+"Hello open Google"
 
-"Jarvis open LinkedIn"
+"Hello open LinkedIn"
 
-"Jarvis play Skyfall"
+"Hello play Skyfall"
 
 ---
 
