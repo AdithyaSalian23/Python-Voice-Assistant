@@ -1,6 +1,6 @@
 # 🤖 Voice-Activated Assistant using Python
 
-![Jarvis Voice Assistant Banner](title-pic.png)
+![Jarvis Voice Assistant Banner](Python Assistant.png)
 
 This is a simple voice-controlled assistant built using Python that responds to your voice commands to **open websites** and **play music** 🎵. Just say the wake word **"Jarvis"**, give a command like "open Google" or "play Wolf", and it works like magic ✨.
 
